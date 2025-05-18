@@ -1,6 +1,7 @@
 {
     "name": "GameCode",
     "version": "8.0.2",
+    "description": "GameCode",
     "dependencies": {
         "core": "*",
         "builder": "*"
@@ -16,8 +17,10 @@
         "1-saveTheArcade/tutorials/6-while.md",
         "1-saveTheArcade/tutorials/0-close.md"
     ],
+    "testFiles": [],
+    "public": true,
     "targetVersions": {
-        "target": "1.6.8",
+        "target": "2.0.30",
         "targetId": "minecraft"
     },
     "supportedTargets": [
